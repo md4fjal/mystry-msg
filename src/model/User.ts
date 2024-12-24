@@ -69,3 +69,9 @@ const UserModel =
   mongoose.model<User>("User", UserSchema);
 
 export default UserModel;
+
+// MONGODB_URI=mongodb+srv://zec-next:zec-next@cluster0.9q6gv.mongodb.net/messagenext
+// // mail
+// SMTP_USER=823b8e001@smtp-brevo.com
+// SMTP_PASS=pK6aTyIDrqhAzt1f
+// SENDER_EMAIL=afjal.zectagon@gmail.com
